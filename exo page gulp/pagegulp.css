@@ -1,0 +1,153 @@
+*{
+	padding:0;
+	margin:0;
+}
+html{
+	height:100%;
+	width:100%;
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	height:100%;
+	width:100%;
+}
+/**header{
+	height:900px;
+	width:100%;
+	background-color: #cf4646;
+}**/
+
+
+.partie1{
+	height:100%;
+	width:100%;
+	background-color: #cf4646;
+
+
+
+	
+}
+.menu{
+	margin-left: auto;
+	margin-right : auto;
+	padding-top: 30px;
+	height:50px;
+	width:300px;
+	*background-color: #fff;
+	
+	font-weight: 100;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+	
+}
+.menu li{
+	display: inline-block; 
+	height: 20px;
+	
+	padding-right: 10px;
+	padding-left: 5px;
+	border-right: 2px solid white;
+
+}
+li:last-child {
+	border-right: 0px;	
+}
+a{
+	color:#fff;
+	text-decoration: none;
+}
+.textmilieu{
+	padding-top: 350px;
+	height:350px;
+	width:100%;
+	*background-color: #2233aa;
+	text-align: center;
+
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 40px;
+	letter-spacing: 2px;
+	color: #fff;
+
+}
+.btn{
+	position:relative;
+	padding-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	height:50px;
+	width:150px;
+	background-color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 25px;
+	letter-spacing: 1px;
+	border-radius: 5px;
+
+}
+.btn a{
+	color:#333;
+}
+footer{
+	height:550px;
+	width:100%;
+	background-color:#fff;
+	padding-top:20px;
+
+}
+.bloc1{
+	padding: 10px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	height:400px;
+	width:950px;
+	background-color: #fff;
+	
+}
+.bloc1a{
+	position:relative;
+	float:left;
+	height:200px;
+	width:450px;
+	background-color: #fff;
+	padding-left: 20px; 
+}
+.bloc1b{
+	position:relative;
+	float:left;
+	height:200px;
+	width:450px;
+	background-color: #fff;
+	padding-left: 20px; 
+}
+.bloc1c{
+	position:relative;
+	float:left;
+	height:200px;
+	width:450px;
+	background-color: #fff;
+	padding-left: 20px; 
+}
+.bloc1d{
+	position:relative;
+	float:left;
+	height:200px;
+	width:450px;
+	background-color: #fff;
+	padding-left: 20px; 
+}
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: #333;
+
+}
+p{
+	color: #999;
+}
